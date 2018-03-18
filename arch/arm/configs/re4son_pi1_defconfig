@@ -1,5 +1,5 @@
 ## Re4son Kernel 4.14
-#CONFIG_LOCALVERSION="-Re4son"
+CONFIG_LOCALVERSION="-Re4son"
 ### End Re4son config
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_SYSVIPC=y
