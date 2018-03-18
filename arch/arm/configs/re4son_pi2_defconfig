@@ -1,5 +1,5 @@
 ## Re4son Kernel 4.14
-#CONFIG_LOCALVERSION="-Re4son-v7"
+CONFIG_LOCALVERSION="-Re4son-v7"
 ### End Re4son config
 ##CONFIG_LOCALVERSION="-v7"
 # CONFIG_LOCALVERSION_AUTO is not set
